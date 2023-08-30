@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rec",
+            "request": "launch",
+            "mainClass": "GFG.rec",
+            "projectName": "Java Programming_193cd615"
+        },
+        {
+            "type": "java",
+            "name": "mincoins",
+            "request": "launch",
+            "mainClass": "dp.mincoins",
+            "projectName": "Java Programming_193cd615"
+        },
+        {
+            "type": "java",
+            "name": "arrayfilling",
+            "request": "launch",
+            "mainClass": "com.codechef.arrayfilling",
+            "projectName": "Java Programming_193cd615"
+        },
+        {
+            "type": "java",
             "name": "Launch subset",
             "request": "launch",
             "mainClass": "Kunal_kushwaha.subset",
